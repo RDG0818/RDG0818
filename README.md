@@ -1,6 +1,6 @@
 <h1 align="center">Ryan Goodwin </h1>
 
-<p align="center" width="150px"> I am currently a second-year computer science and mathematics student at Mississippi State University, where I am passionate about programming solutions to complex real-world problems, especially with the use of artificial intelligence and machine learning. I am well-versed in Python and C++, and I am highly enthusiastic about connecting with technology professionals to learn from their experiences and insights. Although undecided about my career, I am interested in AI/ML research, data science, HPC, and quantitative finance.</p>
+<p align="center" width="150px"> I am currently a second-year computer science and mathematics student at Mississippi State University interested in artificial intelligence, machine learning, computational mathematics, and quantitative finance.</p>
 
 
 
