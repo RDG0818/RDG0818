@@ -1,6 +1,6 @@
 <h1 align="center">Ryan Goodwin </h1>
 
-<p align="center" width="150px"> I am currently a second-year computer science and mathematics student at Mississippi State University interested in artificial intelligence, machine learning, computational mathematics, and quantitative finance.</p>
+<p align="center" width="150px"> I am currently a third-year computer science and mathematics student at Mississippi State University interested in artificial intelligence, machine learning, computational mathematics, and quantitative finance.</p>
 
 
 
